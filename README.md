@@ -14,7 +14,7 @@ Open http://webapplate.github.io/ghapplate to see the basic looks and feel.
 
 ![Real welcome page](http://i.imgur.com/8AGwXCG.png)
 
-## How to use ghapplate
+## How to use ghapplate hi how are you
 
 Go to https://github.com/way670425/webapplate/ghapplate, click 'fork' button to fork the template to your repository.
 
